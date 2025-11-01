@@ -34,7 +34,7 @@
     * Convert all functions with Node-style callbacks to return Promises
     * This is a _huge_ amount of changes to focus on just being a utility
       library for Node. Please see the new
-      [docs](https://zacanger.github.io/zeelib).
+      [docs](https://zautumnz.github.io/zeelib).
 * `9.0.0` &mdash; **2019-07-02**
     * Remove DOM utils (I recommend using a FE lib or framework):
         * `eventOnce`
@@ -232,7 +232,7 @@
         * `transpose`
 * `1.0.0` &mdash; **2017-06-28** &mdash; *breaking*
     * `unless` argument order switched (now `cond, fn`)
-    * Documentation moved [here](https://zacanger.github.io/zeelib/)
+    * Documentation moved [here](https://zautumnz.github.io/zeelib/)
     * All previously deprecated functions removed. These are:
         * `clamp`
         * `combineRegex`

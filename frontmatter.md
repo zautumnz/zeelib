@@ -8,8 +8,6 @@ _not_ rewriting builtin features.
 * [Contributing](./.github/CONTRIBUTING.md)
 * [License (MIT)](./LICENSE.md)
 
-[![npm version](https://img.shields.io/npm/v/zeelib.svg)](https://npm.im/zeelib) [![ko-fi](https://img.shields.io/badge/donate-KoFi-yellow.svg)](https://ko-fi.com/U7U2110VB) [![Support with PayPal](https://img.shields.io/badge/paypal-donate-yellow.png)](https://paypal.me/zacanger)
-
 ----
 
 ## Installation

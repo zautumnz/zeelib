@@ -1,7 +1,7 @@
 /**
  * Trims a string to just caps
  * @example
- * initials('Zac Anger') // => 'ZA'
+ * initials('Autumn Z') // => 'AZ'
  */
 
 export const initials = (str: string): string => {

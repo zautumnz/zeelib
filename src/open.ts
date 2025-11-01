@@ -6,7 +6,7 @@ type Cb = (error: c.ExecFileException | null, stdout: string | Buffer, stderr: s
 /**
  * Opens things. Works on Linux, Mac, and Windows
  * @example
- * open('http://zacanger.com')
+ * open('http://example.com')
  */
 
 export const open = (args: string, opts: AnyMap, cb: Cb): void => {
