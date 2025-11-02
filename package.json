@@ -23,7 +23,7 @@
   "homepage": "https://github.com/zautumnz/zeelib",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zautumnz/zeelib.git"
+    "url": "git+https://github.com/zautumnz/zeelib.git"
   },
   "bugs": "https://github.com/zautumnz/zeelib/issues",
   "keywords": [

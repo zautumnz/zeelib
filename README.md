@@ -229,7 +229,7 @@ if (z.isEmpty(answer)) process.exit(1)
 
 #### Defined in
 
-[pipe.ts:3](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/pipe.ts#L3)
+[pipe.ts:3](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/pipe.ts#L3)
 
 ___
 
@@ -239,7 +239,7 @@ ___
 
 #### Defined in
 
-[types.ts:1](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/types.ts#L1)
+[types.ts:1](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/types.ts#L1)
 
 ___
 
@@ -265,7 +265,7 @@ ___
 
 #### Defined in
 
-[open.ts:4](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/open.ts#L4)
+[open.ts:4](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/open.ts#L4)
 
 ___
 
@@ -275,7 +275,7 @@ ___
 
 #### Defined in
 
-[colorize.ts:4](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/colorize.ts#L4)
+[colorize.ts:4](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/colorize.ts#L4)
 
 ___
 
@@ -299,7 +299,7 @@ ___
 
 #### Defined in
 
-[curry.ts:1](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/curry.ts#L1)
+[curry.ts:1](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/curry.ts#L1)
 
 ___
 
@@ -324,7 +324,7 @@ ___
 
 #### Defined in
 
-[store.ts:3](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/store.ts#L3)
+[store.ts:3](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/store.ts#L3)
 
 ___
 
@@ -348,7 +348,7 @@ ___
 
 #### Defined in
 
-[debounce.ts:2](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/debounce.ts#L2)
+[debounce.ts:2](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/debounce.ts#L2)
 
 ___
 
@@ -358,7 +358,7 @@ ___
 
 #### Defined in
 
-[keep.ts:4](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/keep.ts#L4)
+[keep.ts:4](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/keep.ts#L4)
 
 ___
 
@@ -368,7 +368,7 @@ ___
 
 #### Defined in
 
-[debounce.ts:1](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/debounce.ts#L1)
+[debounce.ts:1](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/debounce.ts#L1)
 
 ___
 
@@ -392,7 +392,7 @@ ___
 
 #### Defined in
 
-[store.ts:4](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/store.ts#L4)
+[store.ts:4](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/store.ts#L4)
 
 ## Variables
 
@@ -402,7 +402,7 @@ ___
 
 #### Defined in
 
-[colorize.ts:34](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/colorize.ts#L34)
+[colorize.ts:34](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/colorize.ts#L34)
 
 ## Functions
 
@@ -437,7 +437,7 @@ and([ 1, 2, 3, false ]) // => false
 
 #### Defined in
 
-[and.ts:8](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/and.ts#L8)
+[and.ts:8](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/and.ts#L8)
 
 ___
 
@@ -465,7 +465,7 @@ average([ 2, 4, 6, 8 ]) // => 5
 
 #### Defined in
 
-[average.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/average.ts#L7)
+[average.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/average.ts#L7)
 
 ___
 
@@ -493,7 +493,7 @@ capitalizeFirstChar('things and stuff') // => 'Things and stuff'
 
 #### Defined in
 
-[capitalize-first-char.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/capitalize-first-char.ts#L7)
+[capitalize-first-char.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/capitalize-first-char.ts#L7)
 
 ___
 
@@ -528,7 +528,7 @@ chunk([1, 2, 3, 4 ], 2) // => [ [ 1, 2 ], [ 3, 4 ] ]
 
 #### Defined in
 
-[chunk.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/chunk.ts#L7)
+[chunk.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/chunk.ts#L7)
 
 ___
 
@@ -562,7 +562,7 @@ clamp(100, 0, 99) // => 00
 
 #### Defined in
 
-[clamp.ts:11](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/clamp.ts#L11)
+[clamp.ts:11](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/clamp.ts#L11)
 
 ___
 
@@ -590,7 +590,7 @@ collapseNewlines('\n\n\n\n') // => '\n\n'
 
 #### Defined in
 
-[collapse-newlines.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/collapse-newlines.ts#L7)
+[collapse-newlines.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/collapse-newlines.ts#L7)
 
 ___
 
@@ -618,7 +618,7 @@ collapseWhitespace('a\n\r\t\nb') // => 'a b'
 
 #### Defined in
 
-[collapse-whitespace.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/collapse-whitespace.ts#L7)
+[collapse-whitespace.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/collapse-whitespace.ts#L7)
 
 ___
 
@@ -660,7 +660,7 @@ collectBy('foo')(data) // => { a: { foo: 'a', bar: 'whatever' }, b: { foo: 'b', 
 
 #### Defined in
 
-[collect-by.ts:11](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/collect-by.ts#L11)
+[collect-by.ts:11](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/collect-by.ts#L11)
 
 ___
 
@@ -689,7 +689,7 @@ combineRegex([/[a-z]/, /[0-9]], 'g') ==> /[a-z][0-9]/g
 
 #### Defined in
 
-[combine-regex.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/combine-regex.ts#L7)
+[combine-regex.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/combine-regex.ts#L7)
 
 ___
 
@@ -737,7 +737,7 @@ compose(addOne, timesTwo)(2) // => 5
 
 #### Defined in
 
-[compose.ts:11](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/compose.ts#L11)
+[compose.ts:11](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/compose.ts#L11)
 
 ___
 
@@ -774,7 +774,7 @@ countIn('a', [ 'a', 'b', 'c' ]) // => 1
 
 #### Defined in
 
-[count-in.ts:9](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/count-in.ts#L9)
+[count-in.ts:9](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/count-in.ts#L9)
 
 ___
 
@@ -812,7 +812,7 @@ curry(addThree)(1)(1)(1) // => 3
 
 #### Defined in
 
-[curry.ts:13](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/curry.ts#L13)
+[curry.ts:13](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/curry.ts#L13)
 
 ___
 
@@ -841,7 +841,7 @@ debounce(() => console.log('hi'), 5000)
 
 #### Defined in
 
-[debounce.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/debounce.ts#L10)
+[debounce.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/debounce.ts#L10)
 
 ___
 
@@ -876,7 +876,7 @@ diff([ 1, 2, 3 ], [ 2, 3 ]) // => [ 1 ]
 
 #### Defined in
 
-[diff.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/diff.ts#L7)
+[diff.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/diff.ts#L7)
 
 ___
 
@@ -904,7 +904,7 @@ div([ 4, 2, 1 ]) // => 2
 
 #### Defined in
 
-[div.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/div.ts#L7)
+[div.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/div.ts#L7)
 
 ___
 
@@ -939,7 +939,7 @@ drop(2, [ 1, 2, 3 ]) // => 3
 
 #### Defined in
 
-[drop.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/drop.ts#L7)
+[drop.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/drop.ts#L7)
 
 ___
 
@@ -976,7 +976,7 @@ dropWhile(lessThanThree, [ 1, 2, 3, 4 ]) // => [ 3, 4 ]
 
 #### Defined in
 
-[drop-while.ts:11](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/drop-while.ts#L11)
+[drop-while.ts:11](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/drop-while.ts#L11)
 
 ___
 
@@ -1013,7 +1013,7 @@ each([ 'a', 'b', 'c' ], id) // => 'a'
 
 #### Defined in
 
-[each.ts:33](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/each.ts#L33)
+[each.ts:33](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/each.ts#L33)
 
 ___
 
@@ -1040,7 +1040,7 @@ escapeForRegex('1 \\ {} []|') // => '1 \\\\ \{\} \\[\\]\\|'
 
 #### Defined in
 
-[escape-for-regex.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/escape-for-regex.ts#L7)
+[escape-for-regex.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/escape-for-regex.ts#L7)
 
 ___
 
@@ -1068,7 +1068,7 @@ execute('standard-format -w')
 
 #### Defined in
 
-[execute.ts:15](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/execute.ts#L15)
+[execute.ts:15](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/execute.ts#L15)
 
 ___
 
@@ -1096,7 +1096,7 @@ await fileExists('./foo') // => Promise<true>
 
 #### Defined in
 
-[file-exists.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/file-exists.ts#L10)
+[file-exists.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/file-exists.ts#L10)
 
 ___
 
@@ -1133,7 +1133,7 @@ filter(lessThanThree, { a: 1, b: 4 }) // =>  { a: 1 }
 
 #### Defined in
 
-[filter.ts:14](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/filter.ts#L14)
+[filter.ts:14](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/filter.ts#L14)
 
 ___
 
@@ -1162,7 +1162,7 @@ findIndices(1, [ 1, 2, 1 ]) // => [ 0, 2 ]
 
 #### Defined in
 
-[find-indices.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/find-indices.ts#L7)
+[find-indices.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/find-indices.ts#L7)
 
 ___
 
@@ -1191,7 +1191,7 @@ findPort(8000, (err, port) => console.log(`${port} is open`))
 
 #### Defined in
 
-[find-port.ts:13](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/find-port.ts#L13)
+[find-port.ts:13](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/find-port.ts#L13)
 
 ___
 
@@ -1226,7 +1226,7 @@ flattenAndUniq([ 1, 2, 3, [ 1, 2, 3 ]]) // =>  [ 1, 2, 3 ]
 
 #### Defined in
 
-[flatten-and-uniq.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/flatten-and-uniq.ts#L10)
+[flatten-and-uniq.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/flatten-and-uniq.ts#L10)
 
 ___
 
@@ -1268,7 +1268,7 @@ flip(minus)(2, 1) // => -1
 
 #### Defined in
 
-[flip.ts:9](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/flip.ts#L9)
+[flip.ts:9](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/flip.ts#L9)
 
 ___
 
@@ -1304,7 +1304,7 @@ foldl1(increment, [ 1, 1, 1 ]) // => 3
 
 #### Defined in
 
-[fold.ts:8](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/fold.ts#L8)
+[fold.ts:8](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/fold.ts#L8)
 
 ___
 
@@ -1326,7 +1326,7 @@ getFreeDisk()
 
 #### Defined in
 
-[get-free-disk.ts:9](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/get-free-disk.ts#L9)
+[get-free-disk.ts:9](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/get-free-disk.ts#L9)
 
 ___
 
@@ -1348,7 +1348,7 @@ getFreeMemory()
 
 #### Defined in
 
-[get-free-memory.ts:9](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/get-free-memory.ts#L9)
+[get-free-memory.ts:9](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/get-free-memory.ts#L9)
 
 ___
 
@@ -1370,7 +1370,7 @@ getGlobal() // => window, global, whatever
 
 #### Defined in
 
-[get-global.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/get-global.ts#L7)
+[get-global.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/get-global.ts#L7)
 
 ___
 
@@ -1392,7 +1392,7 @@ getHashFromDate()
 
 #### Defined in
 
-[get-hash-from-date.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/get-hash-from-date.ts#L7)
+[get-hash-from-date.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/get-hash-from-date.ts#L7)
 
 ___
 
@@ -1414,7 +1414,7 @@ getHashFromSystem()
 
 #### Defined in
 
-[get-hash-from-system.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/get-hash-from-system.ts#L10)
+[get-hash-from-system.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/get-hash-from-system.ts#L10)
 
 ___
 
@@ -1443,7 +1443,7 @@ getKeyByValue('bar', { foo: 'bar' }) // => 'foo'
 
 #### Defined in
 
-[get-key-by-value.ts:9](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/get-key-by-value.ts#L9)
+[get-key-by-value.ts:9](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/get-key-by-value.ts#L9)
 
 ___
 
@@ -1465,7 +1465,7 @@ getLoadAverage()
 
 #### Defined in
 
-[get-load-average.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/get-load-average.ts#L10)
+[get-load-average.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/get-load-average.ts#L10)
 
 ___
 
@@ -1487,7 +1487,7 @@ getMemoryUsage()
 
 #### Defined in
 
-[get-memory-usage.ts:9](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/get-memory-usage.ts#L9)
+[get-memory-usage.ts:9](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/get-memory-usage.ts#L9)
 
 ___
 
@@ -1517,7 +1517,7 @@ getOrdinal(1) // => '1st'
 
 #### Defined in
 
-[get-ordinal.ts:9](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/get-ordinal.ts#L9)
+[get-ordinal.ts:9](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/get-ordinal.ts#L9)
 
 ___
 
@@ -1539,7 +1539,7 @@ getProjectRoot() // /path/to/project
 
 #### Defined in
 
-[get-project-root.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/get-project-root.ts#L10)
+[get-project-root.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/get-project-root.ts#L10)
 
 ___
 
@@ -1567,7 +1567,7 @@ getRegexFlags(/foo/ig) // => [ 'g', 'i' ]
 
 #### Defined in
 
-[get-regex-flags.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/get-regex-flags.ts#L7)
+[get-regex-flags.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/get-regex-flags.ts#L7)
 
 ___
 
@@ -1597,7 +1597,7 @@ getStdin((str) => {
 
 #### Defined in
 
-[get-stdin.ts:9](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/get-stdin.ts#L9)
+[get-stdin.ts:9](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/get-stdin.ts#L9)
 
 ___
 
@@ -1619,7 +1619,7 @@ getTerminalColumns()
 
 #### Defined in
 
-[get-terminal-columns.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/get-terminal-columns.ts#L7)
+[get-terminal-columns.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/get-terminal-columns.ts#L7)
 
 ___
 
@@ -1641,7 +1641,7 @@ getTerminalRows()
 
 #### Defined in
 
-[get-terminal-rows.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/get-terminal-rows.ts#L7)
+[get-terminal-rows.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/get-terminal-rows.ts#L7)
 
 ___
 
@@ -1663,7 +1663,7 @@ getTerminalSize() // => { columns: number, rows: number }
 
 #### Defined in
 
-[get-terminal-size.ts:9](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/get-terminal-size.ts#L9)
+[get-terminal-size.ts:9](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/get-terminal-size.ts#L9)
 
 ___
 
@@ -1685,7 +1685,7 @@ getUserHome() // => /home/z
 
 #### Defined in
 
-[get-user-home.ts:11](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/get-user-home.ts#L11)
+[get-user-home.ts:11](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/get-user-home.ts#L11)
 
 ___
 
@@ -1708,7 +1708,7 @@ getUserShell()
 
 #### Defined in
 
-[get-user-shell.ts:8](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/get-user-shell.ts#L8)
+[get-user-shell.ts:8](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/get-user-shell.ts#L8)
 
 ___
 
@@ -1737,7 +1737,7 @@ greater(1, 2) // => 2
 
 #### Defined in
 
-[greater.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/greater.ts#L7)
+[greater.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/greater.ts#L7)
 
 ___
 
@@ -1773,7 +1773,7 @@ we have this in es2024 now
 
 #### Defined in
 
-[group-by.ts:11](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/group-by.ts#L11)
+[group-by.ts:11](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/group-by.ts#L11)
 
 ___
 
@@ -1802,7 +1802,7 @@ has('a' { b: 'c' }) // => false
 
 #### Defined in
 
-[has.ts:9](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/has.ts#L9)
+[has.ts:9](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/has.ts#L9)
 
 ___
 
@@ -1824,7 +1824,7 @@ hasColor()
 
 #### Defined in
 
-[has-color.ts:14](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/has-color.ts#L14)
+[has-color.ts:14](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/has-color.ts#L14)
 
 ___
 
@@ -1859,7 +1859,7 @@ hasDuplicate([ 1, 1, 2 ]) // => true
 
 #### Defined in
 
-[has-duplicate.ts:8](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/has-duplicate.ts#L8)
+[has-duplicate.ts:8](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/has-duplicate.ts#L8)
 
 ___
 
@@ -1893,7 +1893,7 @@ head([ 1, 2, 3 ]) // => 1
 
 #### Defined in
 
-[head.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/head.ts#L7)
+[head.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/head.ts#L7)
 
 ___
 
@@ -1928,7 +1928,7 @@ id() // => undefined
 
 #### Defined in
 
-[id.ts:8](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/id.ts#L8)
+[id.ts:8](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/id.ts#L8)
 
 ___
 
@@ -1956,7 +1956,7 @@ init([ 1, 2, 3 ]) // => [ 1, 2 ]
 
 #### Defined in
 
-[init.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/init.ts#L7)
+[init.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/init.ts#L7)
 
 ___
 
@@ -1984,7 +1984,7 @@ initials('Autumn Z') // => 'AZ'
 
 #### Defined in
 
-[initials.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/initials.ts#L7)
+[initials.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/initials.ts#L7)
 
 ___
 
@@ -2020,7 +2020,7 @@ intersection([ 1, 2, 3 ], [1, 2]) // => [ 1, 2 ]
 
 #### Defined in
 
-[intersection.ts:8](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/intersection.ts#L8)
+[intersection.ts:8](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/intersection.ts#L8)
 
 ___
 
@@ -2049,7 +2049,7 @@ is('number', 2) // => true
 
 #### Defined in
 
-[is.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is.ts#L7)
+[is.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is.ts#L7)
 
 ___
 
@@ -2078,7 +2078,7 @@ isArrayLike([ 1, 2 ]) // => true
 
 #### Defined in
 
-[is-array-like.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-array-like.ts#L10)
+[is-array-like.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-array-like.ts#L10)
 
 ___
 
@@ -2109,7 +2109,7 @@ isBetween(2, 1, 2) // => false
 
 #### Defined in
 
-[is-between.ts:11](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-between.ts#L11)
+[is-between.ts:11](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-between.ts#L11)
 
 ___
 
@@ -2137,7 +2137,7 @@ isBoolean(true) // => true
 
 #### Defined in
 
-[is-boolean.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-boolean.ts#L7)
+[is-boolean.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-boolean.ts#L7)
 
 ___
 
@@ -2165,7 +2165,7 @@ isClass(noop) // => false
 
 #### Defined in
 
-[is-class.ts:12](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-class.ts#L12)
+[is-class.ts:12](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-class.ts#L12)
 
 ___
 
@@ -2193,7 +2193,7 @@ isDate(new Date()) // => true
 
 #### Defined in
 
-[is-date.ts:9](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-date.ts#L9)
+[is-date.ts:9](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-date.ts#L9)
 
 ___
 
@@ -2221,7 +2221,7 @@ isDefined(null) // => true
 
 #### Defined in
 
-[is-defined.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-defined.ts#L7)
+[is-defined.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-defined.ts#L7)
 
 ___
 
@@ -2250,7 +2250,7 @@ await isDirectory('./fake-path') // => false
 
 #### Defined in
 
-[is-directory.ts:11](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-directory.ts#L11)
+[is-directory.ts:11](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-directory.ts#L11)
 
 ___
 
@@ -2281,7 +2281,7 @@ isEmpty(null) // => true
 
 #### Defined in
 
-[is-empty.ts:14](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-empty.ts#L14)
+[is-empty.ts:14](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-empty.ts#L14)
 
 ___
 
@@ -2309,7 +2309,7 @@ isError(new Error()) // => true
 
 #### Defined in
 
-[is-error.ts:9](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-error.ts#L9)
+[is-error.ts:9](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-error.ts#L9)
 
 ___
 
@@ -2337,7 +2337,7 @@ isEven(2) // => true
 
 #### Defined in
 
-[is-even.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-even.ts#L7)
+[is-even.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-even.ts#L7)
 
 ___
 
@@ -2366,7 +2366,7 @@ isFile('.') // => false
 
 #### Defined in
 
-[is-file.ts:11](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-file.ts#L11)
+[is-file.ts:11](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-file.ts#L11)
 
 ___
 
@@ -2395,7 +2395,7 @@ isFloat(2.2) // => true
 
 #### Defined in
 
-[is-float.ts:8](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-float.ts#L8)
+[is-float.ts:8](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-float.ts#L8)
 
 ___
 
@@ -2425,7 +2425,7 @@ isFunction(noop) // => true
 
 #### Defined in
 
-[is-function.ts:9](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-function.ts#L9)
+[is-function.ts:9](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-function.ts#L9)
 
 ___
 
@@ -2453,7 +2453,7 @@ isGenerator(2) // => false
 
 #### Defined in
 
-[is-generator.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-generator.ts#L7)
+[is-generator.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-generator.ts#L7)
 
 ___
 
@@ -2481,7 +2481,7 @@ isGeneratorFunction(2) // => false
 
 #### Defined in
 
-[is-generator-function.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-generator-function.ts#L7)
+[is-generator-function.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-generator-function.ts#L7)
 
 ___
 
@@ -2509,7 +2509,7 @@ isInstalled('zeelib') // => true
 
 #### Defined in
 
-[is-installed.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-installed.ts#L7)
+[is-installed.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-installed.ts#L7)
 
 ___
 
@@ -2538,7 +2538,7 @@ isInteger(1.1) // => false
 
 #### Defined in
 
-[is-integer.ts:8](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-integer.ts#L8)
+[is-integer.ts:8](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-integer.ts#L8)
 
 ___
 
@@ -2566,7 +2566,7 @@ isJson(JSON.stringify({ a: 'b' })) // => true
 
 #### Defined in
 
-[is-json.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-json.ts#L7)
+[is-json.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-json.ts#L7)
 
 ___
 
@@ -2594,7 +2594,7 @@ isMap(new Map()) // => true
 
 #### Defined in
 
-[is-map.ts:9](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-map.ts#L9)
+[is-map.ts:9](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-map.ts#L9)
 
 ___
 
@@ -2616,7 +2616,7 @@ isNode()
 
 #### Defined in
 
-[is-node.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-node.ts#L7)
+[is-node.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-node.ts#L7)
 
 ___
 
@@ -2644,7 +2644,7 @@ isNull(null) // => true
 
 #### Defined in
 
-[is-null.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-null.ts#L7)
+[is-null.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-null.ts#L7)
 
 ___
 
@@ -2672,7 +2672,7 @@ isNullOrUndefined(null) // => true
 
 #### Defined in
 
-[is-null-or-undefined.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-null-or-undefined.ts#L10)
+[is-null-or-undefined.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-null-or-undefined.ts#L10)
 
 ___
 
@@ -2701,7 +2701,7 @@ isNumber(NaN) // => false
 
 #### Defined in
 
-[is-number.ts:8](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-number.ts#L8)
+[is-number.ts:8](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-number.ts#L8)
 
 ___
 
@@ -2729,7 +2729,7 @@ isObject('asdf') // => false
 
 #### Defined in
 
-[is-object.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-object.ts#L7)
+[is-object.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-object.ts#L7)
 
 ___
 
@@ -2757,7 +2757,7 @@ isOdd(1) // => true
 
 #### Defined in
 
-[is-odd.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-odd.ts#L7)
+[is-odd.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-odd.ts#L7)
 
 ___
 
@@ -2785,7 +2785,7 @@ isPrimitive(1) // => true
 
 #### Defined in
 
-[is-primitive.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-primitive.ts#L7)
+[is-primitive.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-primitive.ts#L7)
 
 ___
 
@@ -2813,7 +2813,7 @@ isPromise(Promise.resolve())
 
 #### Defined in
 
-[is-promise.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-promise.ts#L7)
+[is-promise.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-promise.ts#L7)
 
 ___
 
@@ -2841,7 +2841,7 @@ isRegExp(/a/) // => true
 
 #### Defined in
 
-[is-reg-exp.ts:9](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-reg-exp.ts#L9)
+[is-reg-exp.ts:9](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-reg-exp.ts#L9)
 
 ___
 
@@ -2863,7 +2863,7 @@ isRoot() // => true
 
 #### Defined in
 
-[is-root.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-root.ts#L7)
+[is-root.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-root.ts#L7)
 
 ___
 
@@ -2892,7 +2892,7 @@ isSemver("0.") // => false
 
 #### Defined in
 
-[is-semver.ts:8](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-semver.ts#L8)
+[is-semver.ts:8](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-semver.ts#L8)
 
 ___
 
@@ -2920,7 +2920,7 @@ isSet(new Set()) // => true
 
 #### Defined in
 
-[is-set.ts:9](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-set.ts#L9)
+[is-set.ts:9](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-set.ts#L9)
 
 ___
 
@@ -2948,7 +2948,7 @@ isString('a') // => true
 
 #### Defined in
 
-[is-string.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-string.ts#L7)
+[is-string.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-string.ts#L7)
 
 ___
 
@@ -2976,7 +2976,7 @@ isSymLink('.') // => false
 
 #### Defined in
 
-[is-sym-link.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-sym-link.ts#L10)
+[is-sym-link.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-sym-link.ts#L10)
 
 ___
 
@@ -3004,7 +3004,7 @@ isSymbol(Symbol.for('foo')) // => true
 
 #### Defined in
 
-[is-symbol.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-symbol.ts#L7)
+[is-symbol.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-symbol.ts#L7)
 
 ___
 
@@ -3032,7 +3032,7 @@ isUndefined(undefined) // => true
 
 #### Defined in
 
-[is-undefined.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-undefined.ts#L7)
+[is-undefined.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-undefined.ts#L7)
 
 ___
 
@@ -3060,7 +3060,7 @@ isValidDate('1234') // => false
 
 #### Defined in
 
-[is-valid-date.ts:9](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/is-valid-date.ts#L9)
+[is-valid-date.ts:9](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/is-valid-date.ts#L9)
 
 ___
 
@@ -3089,7 +3089,7 @@ keep({ a: '', b: null, c: 2 }) // => { c: 2 }
 
 #### Defined in
 
-[keep.ts:13](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/keep.ts#L13)
+[keep.ts:13](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/keep.ts#L13)
 
 ___
 
@@ -3123,7 +3123,7 @@ last([ 1, 2, 3 ]) // => 3
 
 #### Defined in
 
-[last.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/last.ts#L7)
+[last.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/last.ts#L7)
 
 ___
 
@@ -3155,7 +3155,7 @@ len((a, b) => a + b) // => 2
 
 #### Defined in
 
-[len.ts:19](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/len.ts#L19)
+[len.ts:19](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/len.ts#L19)
 
 ___
 
@@ -3184,7 +3184,7 @@ lesser(1, 2) // => 1
 
 #### Defined in
 
-[lesser.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/lesser.ts#L7)
+[lesser.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/lesser.ts#L7)
 
 ___
 
@@ -3216,7 +3216,7 @@ const newCol = lightenOrDarken('#F06D06', -20)
 
 #### Defined in
 
-[lighten-or-darken.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/lighten-or-darken.ts#L10)
+[lighten-or-darken.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/lighten-or-darken.ts#L10)
 
 ___
 
@@ -3244,7 +3244,7 @@ lines('foo\nbar') // => [ 'foo', 'bar' ]
 
 #### Defined in
 
-[lines.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/lines.ts#L7)
+[lines.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/lines.ts#L7)
 
 ___
 
@@ -3276,7 +3276,7 @@ mapObject(f, d) // => { a: 'hello world', b: 'sup world' }
 
 #### Defined in
 
-[map-object.ts:11](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/map-object.ts#L11)
+[map-object.ts:11](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/map-object.ts#L11)
 
 ___
 
@@ -3305,7 +3305,7 @@ memoize((a) => a)(1) // => 1
 
 #### Defined in
 
-[memoize.ts:8](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/memoize.ts#L8)
+[memoize.ts:8](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/memoize.ts#L8)
 
 ___
 
@@ -3334,7 +3334,7 @@ mzero([1]) // => []
 
 #### Defined in
 
-[mzero.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/mzero.ts#L10)
+[mzero.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/mzero.ts#L10)
 
 ___
 
@@ -3362,7 +3362,7 @@ objectToString({}) // => '[object Object]'
 
 #### Defined in
 
-[object-to-string.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/object-to-string.ts#L7)
+[object-to-string.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/object-to-string.ts#L7)
 
 ___
 
@@ -3411,7 +3411,7 @@ o(2) // => 1
 
 #### Defined in
 
-[once.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/once.ts#L10)
+[once.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/once.ts#L10)
 
 ___
 
@@ -3441,7 +3441,7 @@ open('http://example.com')
 
 #### Defined in
 
-[open.ts:12](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/open.ts#L12)
+[open.ts:12](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/open.ts#L12)
 
 ___
 
@@ -3472,7 +3472,7 @@ pick([ 'a', 'b' ], { a: 'a', b: 'b', c: 'c' }) // => { a: 'a', b: 'b' }
 
 #### Defined in
 
-[pick.ts:11](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/pick.ts#L11)
+[pick.ts:11](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/pick.ts#L11)
 
 ___
 
@@ -3520,7 +3520,7 @@ pipe(addOne, timesTwo)(2) // => 6
 
 #### Defined in
 
-[pipe.ts:13](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/pipe.ts#L13)
+[pipe.ts:13](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/pipe.ts#L13)
 
 ___
 
@@ -3549,7 +3549,7 @@ pluck('a', [ { a: 'a' }, { a: 'b' } ]) // => [ 'a', 'b' ]
 
 #### Defined in
 
-[pluck.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/pluck.ts#L7)
+[pluck.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/pluck.ts#L7)
 
 ___
 
@@ -3577,7 +3577,7 @@ product([ 1, 2, 3, 4 ]) // => 24
 
 #### Defined in
 
-[product.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/product.ts#L7)
+[product.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/product.ts#L7)
 
 ___
 
@@ -3606,7 +3606,7 @@ if (answer.toLowercase() === 'y') { doTheThing() }
 
 #### Defined in
 
-[prompt.ts:11](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/prompt.ts#L11)
+[prompt.ts:11](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/prompt.ts#L11)
 
 ___
 
@@ -3643,7 +3643,7 @@ range(1, 10, 3) // => [ 1, 4, 7, 10 ]
 
 #### Defined in
 
-[range.ts:14](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/range.ts#L14)
+[range.ts:14](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/range.ts#L14)
 
 ___
 
@@ -3671,7 +3671,7 @@ const json = await readJson('./foo.json')
 
 #### Defined in
 
-[read-json.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/read-json.ts#L10)
+[read-json.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/read-json.ts#L10)
 
 ___
 
@@ -3708,7 +3708,7 @@ reduce((a, b) => a + b, 0, [ 1, 2, 3, 4 ]) // => 10
 
 #### Defined in
 
-[reduce.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/reduce.ts#L7)
+[reduce.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/reduce.ts#L7)
 
 ___
 
@@ -3739,7 +3739,7 @@ removeBOM(someContent)
 
 #### Defined in
 
-[remove-bom.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/remove-bom.ts#L10)
+[remove-bom.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/remove-bom.ts#L10)
 
 ___
 
@@ -3777,7 +3777,7 @@ replicate(4, (a) => a + 1) // => [ 5, 5, 5, 5 ]
 
 #### Defined in
 
-[replicate.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/replicate.ts#L10)
+[replicate.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/replicate.ts#L10)
 
 ___
 
@@ -3807,7 +3807,7 @@ rgbToHex(255, 255, 255) // => '#ffffff'
 
 #### Defined in
 
-[rgb-to-hex.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/rgb-to-hex.ts#L7)
+[rgb-to-hex.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/rgb-to-hex.ts#L7)
 
 ___
 
@@ -3857,7 +3857,7 @@ safeGet('a.b.e', 'f')({ a: { b: { c: 'd' } } }) // => 'f'
 
 #### Defined in
 
-[safe-get.ts:13](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/safe-get.ts#L13)
+[safe-get.ts:13](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/safe-get.ts#L13)
 
 ___
 
@@ -3896,7 +3896,7 @@ scaleToFit(1400, 1200, 2000, 200) // => { width: 233.33333333333331, height: 200
 
 #### Defined in
 
-[scale-to-fit.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/scale-to-fit.ts#L10)
+[scale-to-fit.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/scale-to-fit.ts#L10)
 
 ___
 
@@ -3930,7 +3930,7 @@ shuffle([ 1, 2, 3, 4 ])
 
 #### Defined in
 
-[shuffle.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/shuffle.ts#L7)
+[shuffle.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/shuffle.ts#L7)
 
 ___
 
@@ -3959,7 +3959,7 @@ sleep(1000).then(doAThing)
 
 #### Defined in
 
-[sleep.ts:8](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/sleep.ts#L8)
+[sleep.ts:8](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/sleep.ts#L8)
 
 ___
 
@@ -3997,7 +3997,7 @@ sortBy(({ id }) => id, list) // => [ { id: 1 }, { id: 2 }, { id: 3 } ]
 
 #### Defined in
 
-[sort-by.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/sort-by.ts#L10)
+[sort-by.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/sort-by.ts#L10)
 
 ___
 
@@ -4025,7 +4025,7 @@ sortObject({ b: 'c', a: 'd' }) // => { a: 'd', b: 'c' }
 
 #### Defined in
 
-[sort-object.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/sort-object.ts#L10)
+[sort-object.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/sort-object.ts#L10)
 
 ___
 
@@ -4062,7 +4062,7 @@ span(lessThanThree, [ 1, 2, 3, 4 ]) // => [ [ 1, 2 ], [ 3, 4 ] ]
 
 #### Defined in
 
-[span.ts:11](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/span.ts#L11)
+[span.ts:11](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/span.ts#L11)
 
 ___
 
@@ -4100,7 +4100,7 @@ splitAt(1, [ [ 'a', 'b' ], 'c' ]) // => [ [ [ 'a', 'b' ] ], [ 'c' ] ]
 
 #### Defined in
 
-[split-at.ts:13](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/split-at.ts#L13)
+[split-at.ts:13](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/split-at.ts#L13)
 
 ___
 
@@ -4130,7 +4130,7 @@ state.update({ foo: 'bar' })
 
 #### Defined in
 
-[store.ts:20](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/store.ts#L20)
+[store.ts:20](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/store.ts#L20)
 
 ___
 
@@ -4158,7 +4158,7 @@ stripAnsi(colorize.blue('hello')) // => 'hello'
 
 #### Defined in
 
-[strip-ansi.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/strip-ansi.ts#L7)
+[strip-ansi.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/strip-ansi.ts#L7)
 
 ___
 
@@ -4186,7 +4186,7 @@ sub([ 4, 3, 2, 1 ]) // => -2
 
 #### Defined in
 
-[sub.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/sub.ts#L7)
+[sub.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/sub.ts#L7)
 
 ___
 
@@ -4214,7 +4214,7 @@ sum([ 1, 2, 3, 4 ]) // => 10
 
 #### Defined in
 
-[sum.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/sum.ts#L7)
+[sum.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/sum.ts#L7)
 
 ___
 
@@ -4248,7 +4248,7 @@ tail([ 1, 2, 3, 4 ]) // => [ 2, 3, 4 ]
 
 #### Defined in
 
-[tail.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/tail.ts#L7)
+[tail.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/tail.ts#L7)
 
 ___
 
@@ -4283,7 +4283,7 @@ take(2, [ 1, 2, 3 ]) // => [ 1, 2 ]
 
 #### Defined in
 
-[take.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/take.ts#L7)
+[take.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/take.ts#L7)
 
 ___
 
@@ -4318,7 +4318,7 @@ takeLast(2, [ 1, 2, 3, 4 ]) // => [ 3, 4 ]
 
 #### Defined in
 
-[take-last.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/take-last.ts#L7)
+[take-last.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/take-last.ts#L7)
 
 ___
 
@@ -4354,7 +4354,7 @@ takeWhile((x) => x < 3, [ 1, 2, 3, 4 ]) // => [ 1, 2 ]
 
 #### Defined in
 
-[take-while.ts:8](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/take-while.ts#L8)
+[take-while.ts:8](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/take-while.ts#L8)
 
 ___
 
@@ -4401,7 +4401,7 @@ logger(2) // => this is the thing 2 ; 2
 
 #### Defined in
 
-[tap.ts:8](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/tap.ts#L8)
+[tap.ts:8](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/tap.ts#L8)
 
 ___
 
@@ -4431,7 +4431,7 @@ touch('foo.txt', 'contentx')
 
 #### Defined in
 
-[touch.ts:11](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/touch.ts#L11)
+[touch.ts:11](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/touch.ts#L11)
 
 ___
 
@@ -4462,7 +4462,7 @@ truncate('asdf asdf asdf asdf', 8, ' etc.') // => 'asd etc.'
 
 #### Defined in
 
-[truncate.ts:8](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/truncate.ts#L8)
+[truncate.ts:8](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/truncate.ts#L8)
 
 ___
 
@@ -4497,7 +4497,7 @@ tryJson([ 1, 2 ]) // => [ 1, 2 ]
 
 #### Defined in
 
-[try-json.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/try-json.ts#L10)
+[try-json.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/try-json.ts#L10)
 
 ___
 
@@ -4526,7 +4526,7 @@ typeOf(new Date()) // => 'date'
 
 #### Defined in
 
-[type-of.ts:13](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/type-of.ts#L13)
+[type-of.ts:13](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/type-of.ts#L13)
 
 ___
 
@@ -4560,7 +4560,7 @@ union([ 1, 2, 3 ], [ 2, 3, 4 ]) // => [ 1, 2, 3, 4 ]
 
 #### Defined in
 
-[union.ts:9](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/union.ts#L9)
+[union.ts:9](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/union.ts#L9)
 
 ___
 
@@ -4594,7 +4594,7 @@ uniq([ 1, 1, 2, 3 ]) // => [ 1, 2, 3 ]
 
 #### Defined in
 
-[uniq.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/uniq.ts#L7)
+[uniq.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/uniq.ts#L7)
 
 ___
 
@@ -4625,7 +4625,7 @@ uniqBy('foo', a) // => [ { foo: 'foo' }, { foo: 'bar' } ]
 
 #### Defined in
 
-[uniq-by.ts:11](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/uniq-by.ts#L11)
+[uniq-by.ts:11](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/uniq-by.ts#L11)
 
 ___
 
@@ -4660,7 +4660,7 @@ unless(() => true, false) // => true
 
 #### Defined in
 
-[unless.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/unless.ts#L7)
+[unless.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/unless.ts#L7)
 
 ___
 
@@ -4688,7 +4688,7 @@ unlines([ 'foo', 'bar' ]) // => 'foo\nbar'
 
 #### Defined in
 
-[unlines.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/unlines.ts#L7)
+[unlines.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/unlines.ts#L7)
 
 ___
 
@@ -4735,7 +4735,7 @@ until(equals5, increment)(2) // => 5
 
 #### Defined in
 
-[until.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/until.ts#L7)
+[until.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/until.ts#L7)
 
 ___
 
@@ -4763,7 +4763,7 @@ unwords([ 'foo', bar ]) // => 'foo bar'
 
 #### Defined in
 
-[unwords.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/unwords.ts#L7)
+[unwords.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/unwords.ts#L7)
 
 ___
 
@@ -4792,7 +4792,7 @@ watch('./foo', console.log)
 
 #### Defined in
 
-[watch.ts:10](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/watch.ts#L10)
+[watch.ts:10](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/watch.ts#L10)
 
 ___
 
@@ -4820,7 +4820,7 @@ words('foo bar') // => [ 'foo', 'bar' ]
 
 #### Defined in
 
-[words.ts:7](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/words.ts#L7)
+[words.ts:7](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/words.ts#L7)
 
 ___
 
@@ -4850,5 +4850,5 @@ await writeJson('foo.json', someObject, 4)
 
 #### Defined in
 
-[write-json.ts:9](https://github.com/zautumnz/zeelib/blob/fbf17c1d3b5d5883e47a4c772d1565d2f4c71631/src/write-json.ts#L9)
+[write-json.ts:9](https://github.com/zautumnz/zeelib/blob/6679b4bb3c103cde2e99ec36d73e3758af3c4de6/src/write-json.ts#L9)
 </details>
