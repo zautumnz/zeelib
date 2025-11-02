@@ -1,7 +1,7 @@
 {
   "name": "zeelib",
   "description": "Util lib",
-  "version": "13.0.0",
+  "version": "13.0.1",
   "author": "Autumn Z",
   "license": "MIT",
   "main": "lib/index.js",
