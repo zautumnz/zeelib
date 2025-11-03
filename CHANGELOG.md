@@ -1,3 +1,6 @@
+* `14.0.0` &mdash; **2025-11-02**
+    * Remove groupBy
+    * Package updates
 * `13.0.0` &mdash; **2024-06-23**
     * Finishing all the cleanup from reviving this library
     * Removed fns:
