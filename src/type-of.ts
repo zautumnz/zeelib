@@ -13,7 +13,7 @@ import { isRegExp } from './is-reg-exp'
 export const typeOf = (a: any): string => {
   if (typeof a === 'object') {
     if (a === null) return 'null'
-    if (a && a.nodeType === 1) return 'dom'
+    if (a?.nodeType === 1) return 'dom'
     if (Array.isArray(a)) return 'array'
     if (isDate(a)) return 'date'
     if (isRegExp(a)) return 'regexp'

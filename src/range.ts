@@ -11,7 +11,7 @@
  * range(1, 10, 3) // => [ 1, 4, 7, 10 ]
  */
 
-export const range = (a: number, b: number, step: number = 1): number[] => {
+export const range = (a: number, b: number, step = 1): number[] => {
   const length = Math.floor((b - a) / step)
 
   if (length < 0) {
@@ -20,7 +20,7 @@ export const range = (a: number, b: number, step: number = 1): number[] => {
 
   const arr: number[] = Array.from({ length })
 
-  for (let i: number = 0; i <= length; i++) {
+  for (let i = 0; i <= length; i++) {
     arr[i] = a + (i * step)
   }
 

@@ -19,7 +19,7 @@ export function curry<T> (fn: F): F {
     const functionAsString = fn.toString()
 
     if (functionAsString) {
-      const m = functionAsString.match(/\(.*?\)/)
+      const m = /\(.*?\)/.exec(functionAsString)
       if (m?.[0]) {
         const args = m[0] // match everything between brackets
           .replace(/[()]/gi, '') // remove brackets

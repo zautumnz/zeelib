@@ -10,7 +10,7 @@ export const fold = <T>(
   a: T[],
 ): T => {
   let s = a[0]
-  for (let i: number = 1; i < a.length; i++) {
+  for (let i = 1; i < a.length; i++) {
     s = f(s, a[i])
   }
   return s

@@ -1,5 +1,5 @@
 import { readFile } from 'node:fs/promises'
-import { type AnyMap } from './types'
+import type { AnyMap } from './types'
 
 /**
  * Read json file and parse it

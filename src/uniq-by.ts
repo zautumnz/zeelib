@@ -1,4 +1,4 @@
-import { type AnyMap } from './types'
+import type { AnyMap } from './types'
 
 /**
  * Unique an array by a string key of objects in array

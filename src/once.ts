@@ -10,9 +10,7 @@
 export const once = <U>(fn: (<T>(...args: T[]) => T)): (...args: U[]) => U => {
   let returnValue: U
   return (...args: U[]): U => {
-    if (!returnValue) {
-      returnValue = fn(...args)
-    }
+    returnValue ||= fn(...args);
     return returnValue
   }
 }

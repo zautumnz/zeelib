@@ -8,7 +8,7 @@
  */
 
 export const lightenOrDarken = (col: string, amt: number): string => {
-  const useHash = col[0] === '#'
+  const useHash = col.startsWith('#')
   const c = useHash ? col.slice(1) : col
   const num: number = parseInt(c, 16)
   let r: number = (num >> 16) + amt

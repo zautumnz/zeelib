@@ -1,5 +1,5 @@
 import * as c from 'node:child_process'
-import { type AnyMap } from './types'
+import type { AnyMap } from './types'
 
 type Cb = (error: c.ExecFileException | null, stdout: string | Buffer, stderr: string | Buffer) => void
 

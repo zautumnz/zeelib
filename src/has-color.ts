@@ -2,7 +2,7 @@ const isWin = (): boolean => process.platform === 'win32'
 
 const isColor = (): boolean => {
   const termColor = /^screen|^xterm|^vt100|color|ansi|cygwin|linux/i
-  return !!process.env.COLORTERM ?? termColor.test(process.env.TERM ?? '')
+  return !!(process.env.COLORTERM ?? termColor.test(process.env.TERM ?? ''))
 }
 
 /**

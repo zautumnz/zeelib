@@ -1,4 +1,4 @@
-import { type AnyMap } from './types'
+import type { AnyMap } from './types'
 
 /**
  * `pick`
@@ -13,7 +13,7 @@ export const pick = (
   o: AnyMap,
 ): AnyMap => {
   const r: AnyMap = {}
-  let c: number = 0
+  let c = 0
   while (c < ks.length) {
     if (ks[c] in o) {
       r[ks[c]] = o[ks[c]]

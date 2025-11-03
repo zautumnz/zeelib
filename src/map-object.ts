@@ -1,4 +1,4 @@
-import { type AnyMap } from './types'
+import type { AnyMap } from './types'
 
 /**
  * Map for objects

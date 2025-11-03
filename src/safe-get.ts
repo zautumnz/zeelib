@@ -1,5 +1,5 @@
 import { id } from './id'
-import { type AnyMap } from './types'
+import type { AnyMap } from './types'
 
 /**
  * Like `_.get`: takes an access string and an optional fallback,

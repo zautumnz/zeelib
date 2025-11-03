@@ -9,7 +9,7 @@ export const takeLast = <A>(num: number, arr: A[]): A[] => {
   const alen = array.length
   if (num > alen) return array
   const a1 = []
-  for (let i: number = 0; i < num && i < alen; i++) {
+  for (let i = 0; i < num && i < alen; i++) {
     a1.push(array[i])
   }
   return a1.reverse()

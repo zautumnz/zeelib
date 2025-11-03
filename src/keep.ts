@@ -1,5 +1,5 @@
 import { filter } from './filter'
-import { type AnyMap } from './types'
+import type { AnyMap } from './types'
 
 type R = string | any[] | AnyMap
 

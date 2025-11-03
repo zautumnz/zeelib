@@ -10,7 +10,7 @@ export const reduce = <A, B>(
   data: A[],
 ): B => {
   let reducedValue: B = initialValue
-  for (let i: number = 0; i < data.length; i++) {
+  for (let i = 0; i < data.length; i++) {
     reducedValue = fn(reducedValue, data[i])
   }
   return reducedValue

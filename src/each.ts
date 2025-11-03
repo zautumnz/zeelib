@@ -1,12 +1,10 @@
 import { isArrayLike } from './is-array-like'
-import { type AnyMap } from './types'
+import type { AnyMap } from './types'
 
 const iterateArray = <T>(
   arr: T[],
   fn: (a: T, b: string) => T,
-): T[] => {
-  return arr.map((x: T, i: number) => fn(x, i.toString()))
-}
+): T[] => arr.map((x: T, i: number) => fn(x, i.toString()))
 
 type IOFn <T> = (a: T, b: string) => AnyMap
 const iterateObject = <T>(

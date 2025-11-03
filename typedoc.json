@@ -3,11 +3,13 @@
     "typedoc-plugin-markdown",
     "typedoc-plugin-missing-exports"
   ],
-  "out": "docs/",
+  "outputs": [{
+    "name": "html",
+    "path": "./docs"
+  }],
   "entryPoints": [
     "src/index.ts"
   ],
-  "readme": "./frontmatter.md",
   "exclude": [
     "**/*+(.test).ts"
   ],

@@ -8,8 +8,8 @@
 export const truncate = (
   str: string,
   limit: number,
-  tail: string = '…',
+  tail = '…',
 ): string =>
   str.length > limit
-    ? `${str.substr(0, limit - tail.length)}${tail}`
+    ? `${str.slice(0, limit - tail.length)}${tail}`
     : str

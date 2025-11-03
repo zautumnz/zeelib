@@ -1,5 +1,5 @@
 import { isObject } from './is-object'
-import { type AnyMap } from './types'
+import type { AnyMap } from './types'
 
 /**
  * Sort an object (recursively)
@@ -12,7 +12,7 @@ export const sortObject = (o: AnyMap): AnyMap => {
   const ks = Object.keys(o)
   ks.sort()
   const vals = []
-  for (let i: number = 0; i < ks.length; i++) {
+  for (let i = 0; i < ks.length; i++) {
     const k = ks[i]
     const v = o[k]
     vals.push([ k, isObject(v) ? sortObject(v as AnyMap) : v ])

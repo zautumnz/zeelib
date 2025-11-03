@@ -1,4 +1,4 @@
-import { type AnyMap } from './types'
+import type { AnyMap } from './types'
 
 type Listener = (a: AnyMap, b: AnyMap) => any
 type Updater = (a: AnyMap) => AnyMap

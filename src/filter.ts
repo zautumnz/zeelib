@@ -1,5 +1,5 @@
 import { each } from './each'
-import { type AnyMap } from './types'
+import type { AnyMap } from './types'
 
 type AnyMapOrArr = AnyMap | any[]
 

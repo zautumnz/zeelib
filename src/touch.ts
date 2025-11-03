@@ -10,7 +10,7 @@ import { resolve } from 'node:path'
 
 export const touch = async (
   filePath: string,
-  contents: string = '',
+  contents = '',
 ): Promise<void> => {
   const fl = resolve(filePath)
   try {
